@@ -6,7 +6,7 @@
 
 Чето сюда
 
-<div align="center">
+<br><div align="center">
   <a href="https://github.com/sigvame?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=sigvame&show_icons=true&theme=dark" alt="Моя статистика GitHub" />
   </a>
@@ -23,7 +23,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,python,django,html,css,js,react,bootstrap" alt="Иконки технологий" />
   </a>
-</p>
+</p><br>
 
 ### Базы данных и инструменты
 <p align="center">
@@ -52,7 +52,7 @@
 
 
 ---
-<div align="center">
+<br><div align="center">
   <h2>📫 Связаться со мной</h2>
 </div>
 
