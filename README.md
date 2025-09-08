@@ -39,16 +39,34 @@
 
 ...
 
-<div align="center">
-  
-| Проект | Описание | Технологии | Ссылки |
-| :--- | :--- | :--- | :--- |
-| **Программа для тестирования студентов** | Командный проект, созданный в рамках обучения. Позволяет проводить тестирование студентов и формировать отчёты. | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | [**Репозиторий**](https://github.com/sigvame/student-testing-program) |
-| **E-Commerce платформа** | Полноценная E-Commerce платформа с системой управления товарами, корзиной и обработкой заказов. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | [**Репозиторий**](https://github.com/sigvame/e-commerce-platform) |
-| **Блог-платформа на Django** | Персональный проект, демонстрирующий навыки работы с фреймворком Django. Имеет систему управления контентом и аутентификацию. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) | [**Репозиторий**](https://github.com/sigvame/django-blog-platform) |
-| **Веб-приложение для задач** | Прототип веб-приложения для организации задач и проектов. | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | [**Репозиторий**](https://github.com/sigvame/react-task-planner) |
-
-</div>
+<table style="width:100%; border-collapse: separate; border-spacing: 15px;">
+  <tr>
+    <td style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); vertical-align: top;">
+      <h3>1. Программа для тестирования студентов</h3>
+      <p>Командный проект, созданный в рамках обучения. Позволяет проводить тестирование студентов, автоматически оценивая результаты и формируя отчёты.</p>
+      <b>Технологии:</b> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ badge" />
+      <br><br>
+      <a href="https://github.com/sigvame/student-testing-program" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub link" />
+      </a>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Live%20Demo-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo link" />
+      </a>
+    </td>
+    <td style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); vertical-align: top;">
+      <h3>2. E-Commerce платформа (Интернет-магазин)</h3>
+      <p>Полноценная E-Commerce платформа с системой управления товарами, корзиной, регистрацией пользователей и обработкой заказов. Проект включает как клиентскую часть, так и надёжный бэкенд.</p>
+      <b>Технологии:</b> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django badge" />
+      <br><br>
+      <a href="https://github.com/sigvame/e-commerce-platform" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub link" />
+      </a>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Live%20Demo-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo link" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
