@@ -1,16 +1,25 @@
-## Hi there 👋
+# Привет, я Артём! 👋
 
-<!--
-**sigvame/sigvame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Full-stack разработчик, специализирующийся на E-Commerce. Мне нравится создавать полезные и красивые веб-приложения, которые решают реальные проблемы.
 
-Here are some ideas to get you started:
+### 💻 Мой стек технологий
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,django,html,css,js,react" />
+  </a>
+</p>
+
+### 📈 Статистика GitHub
+
+[![Моя статистика GitHub](https://github-readme-stats.vercel.app/api?username=sigvame&show_icons=true&theme=dark)](https://github.com/sigvame/github-readme-stats)
+
+### 🚀 Мои проекты
+
+- **Название проекта 1**: Краткое описание проекта. [Репозиторий](ссылка) | [Демо](ссылка)
+- **Название проекта 2**: Краткое описание проекта. [Репозиторий](ссылка)
+
+### 📫 Связаться со мной
+
+- **GitHub**: [@sigvame](https://github.com/sigvame)
+- **LinkedIn**: [in/artemzheleznov](https://www.linkedin.com/in/artemzheleznov)
