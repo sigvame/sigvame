@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=sigvame&style=for-the-badge" alt="Количество просмотров профиля" />
 </div>
 
-# Привет, я Артём! 👋
+# Artem Zheleznov
 
 Чето сюда
 
@@ -18,14 +18,18 @@
 
 ...
 
-### Языки и фреймворки
+<div align="center">
+  <h2>Языки и фреймворки</h2>
+</div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,python,django,html,css,js,react,bootstrap" alt="Иконки технологий" />
   </a>
 </p><br>
 
-### Базы данных и инструменты
+<div align="center">
+  <h2>Базы данных и инструменты</h2>
+</div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,vscode,docker,figma" alt="Иконки инструментов" />
