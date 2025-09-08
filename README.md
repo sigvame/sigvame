@@ -44,7 +44,7 @@
     <td style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); vertical-align: top;">
       <h3>1. Программа для тестирования студентов</h3>
       <p>Командный проект, созданный в рамках обучения. Позволяет проводить тестирование студентов, автоматически оценивая результаты и формируя отчёты.</p>
-      <b>Технологии:</b> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ badge" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ badge" />
       <br><br>
       <a href="https://github.com/sigvame/student-testing-program" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub link" />
@@ -56,7 +56,7 @@
     <td style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); vertical-align: top;">
       <h3>2. E-Commerce платформа (Интернет-магазин)</h3>
       <p>Полноценная E-Commerce платформа с системой управления товарами, корзиной, регистрацией пользователей и обработкой заказов. Проект включает как клиентскую часть, так и надёжный бэкенд.</p>
-      <b>Технологии:</b> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django badge" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django badge" />
       <br><br>
       <a href="https://github.com/sigvame/e-commerce-platform" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub link" />
