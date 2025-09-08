@@ -66,6 +66,21 @@
 
 ## 📫 Связаться со мной
 
-- **GitHub**: [@sigvame](https://github.com/sigvame)
-- **LinkedIn**: [in/artemzheleznov](https://www.linkedin.com/in/artemzheleznov)
+Вы можете найти меня здесь:
+
+<p align="center">
+  <a href="https://github.com/sigvame" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/artemzheleznov" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me//kaiseloff" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.instagram.com/kaiseloff?igsh=cjdtcGhjdzgzOXB2" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
 - **Email**: artemzheleznovjob@gmail.com
